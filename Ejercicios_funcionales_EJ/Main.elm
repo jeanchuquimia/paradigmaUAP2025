@@ -81,4 +81,3 @@ isPalindrome n =
         num = abs n
     in
     num == reverseNumber num
-    
