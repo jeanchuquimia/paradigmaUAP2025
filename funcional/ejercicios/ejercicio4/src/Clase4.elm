@@ -90,7 +90,7 @@ altura : Tree a -> Int
 altura arbol =
     0
 
-
+a
 
 -- 6. Suma de Valores
 
